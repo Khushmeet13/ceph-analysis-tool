@@ -1,0 +1,16 @@
+/* Style for hovered buttons */
+.tool-bar .toggle-button:hover {
+    -fx-background-color: darkgray;
+    -fx-font-weight: bold;
+    -fx-effect: dropshadow( gaussian , rgba(0,0,0,0.7) , 10, 0, 0, 2 );
+}
+
+/* Style for selected buttons */
+.tool-bar .toggle-button:selected {
+    -fx-background-color: white;
+    -fx-font-weight: bold;
+    -fx-border-color: rgb(150, 142, 142);
+    -fx-border-width: 1px;
+    -fx-border-radius: 2px;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.7), 10, 0, 0, 2);
+}
