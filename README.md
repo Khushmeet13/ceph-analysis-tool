@@ -69,7 +69,8 @@ cepha-tool/
 ## 📸 Screenshots 
 Here are some UI previews of the Cephalometric Analysis Tool in action.
 
-images/annotations.png
+### Annotation Interface
+![Annotation Screenshot](images/annotations.png)
 
 
 ------
